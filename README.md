@@ -28,4 +28,10 @@ Reproducible empirical investment thesis and unit-economics workbench analyzing 
 
 ## License
 
+MIT — see `LICENSE`.
+
+## Independent Second Submission Disclosure (`Q-015`)
+
+Per `HACKATHON.md` FAQ `Q-015` (*"Allowed if projects are independent and disclosed: each README names the other project"*), this author also created the independent multi-track AI Agent system **`near-clawswarm-nexus`** (*ClawSwarm Nexus — Verifiable Contractor Agent, 20×5 Sealed-Bid Solver Swarm & Function-Call Firewall on NEAR* for tracks `["agents", "swarms", "security", "business"]`). Both projects have zero shared code and address completely independent tracks.
+
 MIT — see [`LICENSE`](./LICENSE).
