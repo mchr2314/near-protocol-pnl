@@ -1,5 +1,9 @@
 # NEAR Protocol P&L — L1 Burn vs. Intents Value Capture
 
+> - **NEAR Hackathon 2026 Track:** `["thesis"]`
+> - **Live Web Observatory:** `https://mchr2314.github.io/near-protocol-pnl/`
+> - **NEAR Mainnet Author / Payout Address:** `7c26d89c3391ae3309816da50ab2cd29799e52accf3c81120d17777ed849b0b1`
+
 Reproducible empirical investment thesis and unit-economics workbench analyzing NEAR Protocol's October 2025 inflation halving, Simpson's Paradox in L1-vs-Intents activity correlation, and cross-chain fee accrual.
 
 ## Quickstart (`do X - see Y`)
