@@ -32,6 +32,6 @@ MIT — see `LICENSE`.
 
 ## Independent Second Submission Disclosure (`Q-015`)
 
-Per `HACKATHON.md` FAQ `Q-015` (*"Allowed if projects are independent and disclosed: each README names the other project"*), this author also created the independent multi-track AI Agent system **[near-clawswarm-nexus](https://github.com/mchr2314/near-clawswarm-nexus)** (*VeriPact — NEP-413 Verifiable Contractor Agent, 20×5 Commit-Reveal Clearinghouse & Scoped-Key Guard on NEAR* for tracks `["agents", "swarms", "security", "business"]`, live at `https://inces.biz.id/veripact/`). Both projects have zero shared code and address completely independent tracks.
+Per `HACKATHON.md` FAQ `Q-015` (*"Allowed if projects are independent and disclosed: each README names the other project"*), this author also created the independent multi-track AI Agent system **[near-clawswarm-nexus](https://github.com/mchr2314/near-clawswarm-nexus)** (*VeriPact — NEP-413 Verifiable Contractor Agent, 20×5 Commit-Reveal Clearinghouse & Scoped-Key Guard on NEAR* for tracks `["agents", "swarms", "security", "business"]`, live at `https://mchr2314.github.io/near-clawswarm-nexus/`). Both projects have zero shared code and address completely independent tracks.
 
 MIT — see [`LICENSE`](./LICENSE).
